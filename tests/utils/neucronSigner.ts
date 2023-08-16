@@ -1,4 +1,4 @@
-import { AddressOption, Network, Provider, UtxoQueryOptions } from "scrypt-ts";
+import { AddressOption, Network, Provider, UtxoQueryOptions,UTXO } from "scrypt-ts";
 import { Signer, SignatureRequest, SignatureResponse, SignTransactionOptions } from "../abstract-signer";
 
 import { bsv } from "scryptlib/dist";
